@@ -34,14 +34,11 @@ cask "visual-studio-code"
 cask "whatsapp"
 cask "zoom"
 cask "obsidian"
+cask "qflipper"
 
 # Mac App Store
-mas 'Byword', id: 420212497
-mas 'Giphy Capture', id: 668208984
 mas 'Keynote', id: 409183694
-mas 'MyWoosh', id: 1498889644
 mas 'Numbers', id: 409203825
-mas 'Speedtest', id: 1153157709
-mas 'Things', id: 904280696
+mas 'Home Assistant', id: 1099568401
 mas 'Bitwarden', id: 1352778147
 mas 'Pixelmator Pro', id: 1289583905
