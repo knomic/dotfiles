@@ -35,6 +35,7 @@ cask "whatsapp"
 cask "zoom"
 cask "obsidian"
 cask "qflipper"
+cask "iina"
 
 # Mac App Store
 mas 'Keynote', id: 409183694
